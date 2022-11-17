@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-image: linear-gradient(to bottom, rgb(90, 6, 92), rgb(50, 3, 75) );
+    padding: 20px;
+}
+
+
+@font-face{
+    font-family: 'Lovea';
+    src: url('Valtin\ Demo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'quimil';
+    src: url('Lovea.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.p1{
+    text-align: center;
+    margin: 10px;
+    color: rgb(233, 164, 243);
+    font-family: 'valtin', Times, serif;
+    text-shadow: 0 0 12px rgb(131, 54, 232);
+}
+ .p2{
+    text-align: center;
+    color: rgb(247, 126, 196);
+    font-family: 'quimil', Times, serif;
+    font-size: 25px;
+    text-shadow: 0 0 12px rgba(130, 100, 237, 0.418);
+ }
+ 
+ @media only screen and (max-width: 1080px){
+    
+        
+     
+       
+    }
